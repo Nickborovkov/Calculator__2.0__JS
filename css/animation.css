@@ -1,0 +1,4 @@
+.buttonPressAnimation{
+    transition: .2s;
+    transform: translateY(5px);
+}
